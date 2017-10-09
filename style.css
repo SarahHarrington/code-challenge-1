@@ -1,3 +1,11 @@
+div {
+  background-color: yellow;
+}
+
 .block {
   background-color: red;
+}
+
+#blockHolder {
+  background-color: white;
 }
